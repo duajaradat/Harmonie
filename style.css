@@ -1,0 +1,78 @@
+git
+header{
+  background-color: rgba(255, 192, 203, 0.685);
+  color: rgb(241, 125, 143);
+  height:470px ;
+  }
+header nav{
+  float: right;
+}
+header nav ul{
+  margin-left: 20px;
+}
+header nav ul li{
+  display: inline-block;
+  padding: 30px;
+  font-size: 25px;
+}
+header nav ul li a{ 
+  text-decoration-line: none;
+   color:#417757;
+}
+header img{
+ margin-left:6%;
+margin-top: 3%
+}
+header h1{
+font-style:oblique;
+font-size: 90px;
+text-align:center;
+margin-top: 1%
+}
+header nav ul{
+  list-style-type:none; 
+}
+body{
+  background-color: rgba(201, 235, 212, 0.911);
+}
+section div div img{
+  display: inline-block;
+   margin-left:725px;
+}
+section div div p{
+  display: inline-block;
+  margin-left:800px;
+}
+section h2{
+  font-size: 70px;
+  color: #7eca9c;
+  text-align:center;
+}
+section p{
+text-align:center;
+  font-size: 40px;
+  color: #417757;
+}
+footer{
+  background-color: rgba(255, 192, 203, 0.685);
+  color: rgb(241, 125, 143);
+  height:160px ;
+}
+footer p a{
+  float: right;
+  text-decoration:none;
+  color: #7eca9c;
+}
+#footerP{
+  float: right;
+}
+ footer p{
+  font-size: 30px;
+  color: rgb(241, 125, 143);
+  margin-top:0px; 
+ }
+
+
+
+
+
